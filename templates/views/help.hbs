@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Help</title>
+    <link rel="icon" href="/img/weather.png">
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <div class="main-content">
+  {{>header}}
+
+  <p>
+    {{message}}
+  </p>
+
+  <h2>How to Use the App</h2>
+  <ul>
+    <li>
+      Enter a location (city, town, or landmark) into the search bar on the main
+      page.
+    </li>
+    <li>Click the "Search" button to get weather data for that location.</li>
+    <li>
+      Read the weather forecast, which will include details about temperature
+      and conditions.
+    </li>
+  </ul>
+
+  <h2>Troubleshooting</h2>
+  <ul>
+    <li>
+      If you don’t see results, make sure the location name is spelled
+      correctly.
+    </li>
+    <li>Check your internet connection if the app doesn’t respond.</li>
+    <li>
+      Error messages may appear if the location is not found or the weather
+      service is unavailable.
+    </li>
+  </ul>
+  
+  <p>
+    Facing other issues, there's something on your mind? Feel free to send a message using the link in the footer.
+  </p>
+
+</div>
+  {{>footer}}
+
+    
+  </body>
+</html>
