@@ -16,6 +16,6 @@ Welcome to the **Weather App**! This application provides real-time weather info
 
 - **Express.js:** Backend framework for server-side logic.
 - **Render.com:** Hosting and deployment platform.
-- **APIs:** Uses [Weatherstack](https://weatherstack.com/) and [Maptiler](https://weatherstack.com/) for retrieving data.
+- **APIs:** Uses [Weatherstack](https://weatherstack.com/) and [Maptiler](https://www.maptiler.com/) for retrieving data.
 
 ---
