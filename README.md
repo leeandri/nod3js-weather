@@ -1,6 +1,6 @@
-# Weather App
+# Weather Now
 
-Welcome to the **Weather App**! This application provides real-time weather information for various locations, designed with a focus on user-friendliness and accessibility.
+This application provides real-time weather information for various locations, designed with a focus on user-friendliness and accessibility.
 
 ---
 
